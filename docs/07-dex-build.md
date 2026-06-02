@@ -2,9 +2,9 @@
 
 Target Size: 235
 
-Current Locked: 57
+Current Count: ~230
 
-Remaining: 178
+Status: Audit Required
 
 ---
 
