@@ -1,11 +1,16 @@
 # Source References
 
-Pokemon Emerald Encounter Data
+## Emerald Wild Encounter Data
 
-References used for Route Capacity Audit:
+Source A:
+-
 
-- Wild Pokemon Data
-- Surf Encounters
-- Fishing Encounters
-- Cave Encounters
-- Safari Zone Encounters
+Source B:
+-
+
+Source C:
+-
+
+## Notes
+
+This project uses original Pokemon Emerald encounter tables as baseline.
