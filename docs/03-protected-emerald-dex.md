@@ -1,34 +1,81 @@
-# Protected Emerald Dex
+# Protected Emerald Dex v2
 
-## Project Rules
+Target Dex Size: 235
 
-- Dex Size: 235 Pokemon
-- Emerald Story Route Structure
-- Hoenn Map Unchanged
-- Physical/Special Split Enabled
-- Fairy Type Enabled
-- Trade Evolutions Removed
-- National Dex Available
-
-## Mandatory Pokemon
-
-### Early Game Favorites
+## Locked Favorites
 
 - Shroomish
-- Pikachu
-- Eevee
-
-### Mid Game Favorites
-
-- Froakie
+- Breloom
+- Ralts
+- Abra
 - Riolu
+- Lucario
+- Mareep
+- Ampharos
+- Eevee
+- Froakie
+- Greninja
+- Trapinch
+- Flygon
 - Gible
+- Garchomp
+- Teddiursa
+- Ursaring
+- Phanpy
+- Donphan
+- Shinx
+- Luxray
+- Starly
+- Staraptor
+- Aron
+- Aggron
 
-### Late Game Favorites
+## Rare Pokemon
 
+- Scyther
+- Heracross
+- Dratini
+- Dragonite
+- Larvitar
+- Tyranitar
 - Bagon
+- Salamence
 - Beldum
+- Metagross
+- Lapras
+- Snorlax
+- Feebas
+- Milotic
+- Absol
 
-## Status
+## Starter Lines
 
-Protected Dex Draft v1
+Gen 1
+- Bulbasaur
+- Charmander
+- Squirtle
+
+Gen 2
+- Chikorita
+- Cyndaquil
+- Totodile
+
+Gen 3
+- Treecko
+- Torchic
+- Mudkip
+
+Gen 4
+- Turtwig
+- Chimchar
+- Piplup
+
+Gen 5
+- Snivy
+- Tepig
+- Oshawott
+
+Gen 6
+- Chespin
+- Fennekin
+- Froakie
