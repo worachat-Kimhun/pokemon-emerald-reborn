@@ -133,3 +133,75 @@
 ## Steven Gift
 
 - Beldum
+
+## Devon Fossil Lab
+
+- Omanyte
+- Omastar
+
+- Kabuto
+- Kabutops
+
+- Aerodactyl
+
+- Lileep
+- Cradily
+
+- Anorith
+- Armaldo
+
+- ## Shoal Cave
+
+- Lapras
+- Sneasel
+- Swinub
+- Piloswine
+
+- ## Mt. Pyre
+
+- Gastly
+- Haunter
+- Gengar
+
+- Misdreavus
+
+- Duskull
+- Dusclops
+
+- Shuppet
+- Banette
+
+- ## Safari West
+
+- Pinsir
+- Natu
+- Xatu
+
+## Safari East
+
+- Heracross
+- Yanma
+- Aipom
+
+## Safari South
+
+- Girafarig
+- Stantler
+- Tauros
+
+## Safari North
+
+- Scyther
+- Gligar
+
+- ## Abandoned Ship
+
+- Ditto
+
+## Mossdeep Gift
+
+- Porygon
+
+## Upgrade Event
+
+- Porygon2
