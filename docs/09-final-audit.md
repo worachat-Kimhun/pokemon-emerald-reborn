@@ -22,8 +22,21 @@ Target Dex: 235
 - Eevee
 
 ## Missing Evolution Check
+### Verify Complete Evolution Lines
 
-Pending
+- Kirlia
+- Kadabra
+- Flaaffy
+- Luxio
+- Staravia
+- Dragonair
+- Gabite
+- Vibrava
+- Lairon
+- Shelgon
+- Metang
+
+Status: Review Required
 
 ## Missing Location Check
 
