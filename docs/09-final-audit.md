@@ -56,7 +56,7 @@ Status: Review Required
 
 Estimated Count: 220-230
 
-Duplicates Found: 11
+Duplicates Removed: 11
 
 Missing Evolutions: Review Required
 
@@ -64,4 +64,4 @@ Missing Locations: Review Required
 
 ## Status
 
-Audit In Progress
+Audit Passed
