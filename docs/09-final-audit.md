@@ -54,7 +54,13 @@ Status: Review Required
 
 ## Final Count
 
-Pending
+Estimated Count: 220-230
+
+Duplicates Found: 11
+
+Missing Evolutions: Review Required
+
+Missing Locations: Review Required
 
 ## Status
 
