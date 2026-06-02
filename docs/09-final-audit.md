@@ -39,8 +39,17 @@ Target Dex: 235
 Status: Review Required
 
 ## Missing Location Check
+## Missing Location Check
 
-Pending
+### Potential Missing Locations
+
+- Porygon2
+- Ditto
+- Aerodactyl
+- Omanyte
+- Kabuto
+
+Status: Review Required
 
 ## Final Count
 
