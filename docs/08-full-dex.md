@@ -161,3 +161,157 @@ Remaining: 126
 - Snorlax
 
 - Absol
+
+# Core Hoenn Lines
+
+- Zigzagoon
+- Linoone
+
+- Poochyena
+- Mightyena
+
+- Wurmple
+- Silcoon
+- Beautifly
+
+- Cascoon
+- Dustox
+
+- Taillow
+- Swellow
+
+- Wingull
+- Pelipper
+
+- Lotad
+- Lombre
+- Ludicolo
+
+- Seedot
+- Nuzleaf
+- Shiftry
+
+- Surskit
+- Masquerain
+
+- Slakoth
+- Vigoroth
+- Slaking
+
+- Nincada
+- Ninjask
+- Shedinja
+
+- Whismur
+- Loudred
+- Exploud
+
+- Makuhita
+- Hariyama
+
+- Azurill
+- Marill
+- Azumarill
+
+- Skitty
+- Delcatty
+
+- Sableye
+
+- Mawile
+
+- Aron
+- Lairon
+- Aggron
+
+- Meditite
+- Medicham
+
+- Electrike
+- Manectric
+
+- Plusle
+
+- Minun
+
+- Volbeat
+
+- Illumise
+
+- Roselia
+
+- Gulpin
+- Swalot
+
+- Carvanha
+- Sharpedo
+
+- Wailmer
+- Wailord
+
+- Numel
+- Camerupt
+
+- Torkoal
+
+- Spoink
+- Grumpig
+
+- Spinda
+
+- Trapinch
+- Vibrava
+- Flygon
+
+- Cacnea
+- Cacturne
+
+- Swablu
+- Altaria
+
+- Zangoose
+
+- Seviper
+
+- Lunatone
+
+- Solrock
+
+- Corphish
+- Crawdaunt
+
+- Baltoy
+- Claydol
+
+- Kecleon
+
+- Shuppet
+- Banette
+
+- Duskull
+- Dusclops
+
+- Tropius
+
+- Chimecho
+
+- Absol
+
+- Snorunt
+- Glalie
+
+- Spheal
+- Sealeo
+- Walrein
+
+- Clamperl
+- Huntail
+- Gorebyss
+
+- Relicanth
+
+- Luvdisc
+
+- Beldum
+- Metang
+- Metagross
