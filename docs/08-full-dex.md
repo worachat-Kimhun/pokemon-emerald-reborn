@@ -2,9 +2,9 @@
 
 Target Size: 235
 
-Current Count: 89
+Current Count: 109
 
-Remaining: 146
+Remaining: 126
 
 ---
 
@@ -129,3 +129,35 @@ Remaining: 146
 - Aron
 - Lairon
 - Aggron
+
+- # Rare Lines
+
+- Scyther
+- Scizor
+
+- Heracross
+
+- Dratini
+- Dragonair
+- Dragonite
+
+- Larvitar
+- Pupitar
+- Tyranitar
+
+- Bagon
+- Shelgon
+- Salamence
+
+- Beldum
+- Metang
+- Metagross
+
+- Feebas
+- Milotic
+
+- Lapras
+
+- Snorlax
+
+- Absol
