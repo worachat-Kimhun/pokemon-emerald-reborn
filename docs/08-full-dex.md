@@ -81,3 +81,51 @@ Remaining: 181
 - Froakie
 - Frogadier
 - Greninja
+
+# Favorite Lines
+
+- Shroomish
+- Breloom
+
+- Ralts
+- Kirlia
+- Gardevoir
+
+- Abra
+- Kadabra
+- Alakazam
+
+- Riolu
+- Lucario
+
+- Mareep
+- Flaaffy
+- Ampharos
+
+- Eevee
+
+- Trapinch
+- Vibrava
+- Flygon
+
+- Gible
+- Gabite
+- Garchomp
+
+- Teddiursa
+- Ursaring
+
+- Phanpy
+- Donphan
+
+- Shinx
+- Luxio
+- Luxray
+
+- Starly
+- Staravia
+- Staraptor
+
+- Aron
+- Lairon
+- Aggron
