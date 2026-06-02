@@ -2,11 +2,13 @@
 
 Version: v1
 
-Status: Draft
+Status: Candidate Review
 
 Target Dex: 235
 
 Current Dex: 226
+
+Candidate Added: 96
 
 ## Final Candidates
 
