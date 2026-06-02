@@ -3,8 +3,23 @@
 Target Dex: 235
 
 ## Duplicate Check
+### Confirmed Duplicates
 
-Pending
+- Aron
+- Lairon
+- Aggron
+
+- Trapinch
+- Vibrava
+- Flygon
+
+- Absol
+
+- Beldum
+- Metang
+- Metagross
+
+- Eevee
 
 ## Missing Evolution Check
 
