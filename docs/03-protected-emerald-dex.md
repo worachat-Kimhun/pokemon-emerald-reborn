@@ -1,4 +1,4 @@
-# Protected Emerald Dex v2
+# Protected Emerald Families v1
 
 Target Dex Size: 235
 
