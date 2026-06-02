@@ -315,3 +315,86 @@ Remaining: 126
 - Beldum
 - Metang
 - Metagross
+
+# Safari Expansion
+
+- Pinsir
+
+- Yanma
+
+- Aipom
+
+- Girafarig
+
+- Stantler
+
+- Natu
+- Xatu
+
+- Gligar
+
+- Tauros
+
+---
+
+# Fossil Expansion
+
+- Omanyte
+- Omastar
+
+- Kabuto
+- Kabutops
+
+- Aerodactyl
+
+- Lileep
+- Cradily
+
+- Anorith
+- Armaldo
+
+---
+
+# Ice Expansion
+
+- Sneasel
+
+- Swinub
+- Piloswine
+
+---
+
+# Ghost Expansion
+
+- Gastly
+- Haunter
+- Gengar
+
+- Misdreavus
+
+---
+
+# Dark Expansion
+
+- Houndour
+- Houndoom
+
+- Murkrow
+
+---
+
+# Utility Pokemon
+
+- Ditto
+
+- Porygon
+- Porygon2
+
+- Eevee
+- Vaporeon
+- Jolteon
+- Flareon
+- Espeon
+- Umbreon
+- Leafeon
+- Glaceon
