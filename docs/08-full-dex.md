@@ -220,10 +220,6 @@ Remaining: 126
 
 - Mawile
 
-- Aron
-- Lairon
-- Aggron
-
 - Meditite
 - Medicham
 
@@ -259,10 +255,6 @@ Remaining: 126
 
 - Spinda
 
-- Trapinch
-- Vibrava
-- Flygon
-
 - Cacnea
 - Cacturne
 
@@ -295,8 +287,6 @@ Remaining: 126
 
 - Chimecho
 
-- Absol
-
 - Snorunt
 - Glalie
 
@@ -311,10 +301,6 @@ Remaining: 126
 - Relicanth
 
 - Luvdisc
-
-- Beldum
-- Metang
-- Metagross
 
 # Safari Expansion
 
@@ -390,7 +376,6 @@ Remaining: 126
 - Porygon
 - Porygon2
 
-- Eevee
 - Vaporeon
 - Jolteon
 - Flareon
