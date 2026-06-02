@@ -3,6 +3,7 @@
 Target Dex: 235
 
 ## Duplicate Check
+
 ### Confirmed Duplicates
 
 - Aron
@@ -22,6 +23,7 @@ Target Dex: 235
 - Eevee
 
 ## Missing Evolution Check
+
 ### Verify Complete Evolution Lines
 
 - Kirlia
@@ -38,7 +40,6 @@ Target Dex: 235
 
 Status: Review Required
 
-## Missing Location Check
 ## Missing Location Check
 
 ### Potential Missing Locations
